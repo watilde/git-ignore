@@ -1,0 +1,22 @@
+{
+  "name": "git-ignore",
+  "version": "0.0.1",
+  "description": "git-ignore",
+  "main": "lib/main.js",
+  "bin": {
+      "git-ignore": "./bin/bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watilde/git-ignore.git"
+  },
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/git-ignore/issues"
+  },
+  "homepage": "https://github.com/watilde/git-ignore"
+}

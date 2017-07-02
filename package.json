@@ -4,7 +4,7 @@
   "description": "git-ignore",
   "main": "lib/main.js",
   "bin": {
-      "git-ignore": "./bin/bin.js"
+    "git-ignore": "./bin/bin.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/watilde/git-ignore/issues"
   },
-  "homepage": "https://github.com/watilde/git-ignore"
+  "homepage": "https://github.com/watilde/git-ignore",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
 }

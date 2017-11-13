@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/watilde/git-ignore",
   "devDependencies": {
-    "standard": "^10.0.3"
+    "standard": "^10.0.3",
+    "tap": "^10.7.3"
   },
   "dependencies": {
     "commander": "^2.11.0"
